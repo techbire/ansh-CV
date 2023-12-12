@@ -8,4 +8,4 @@ Please find attached my [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0
 ## Screenshots
 
 <p align="center">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/arasgungore/arasgungore-CV/main/jpg/CV_page_1.jpg" width="400">
+    <img alt="Screenshot" src="https://raw.githubusercontent.com/techbire/ansh-CV/main/jpg/CV_page_1.jpg" width="400">
