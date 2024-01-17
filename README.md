@@ -5,7 +5,4 @@ My curriculum vitae (CV), you may find my contact information, websites, educati
 
 Please find attached my [CV](https://drive.google.com/file/d/16pLPF77arjCOxc8ab0LYKDV2L10G5kv7/view). 😜
 
-## Screenshots
 
-<p align="center">
-    <img alt="Screenshot" src="https://raw.githubusercontent.com/techbire/ansh-CV/main/jpg/CV_page_1.jpg" width="400">
